@@ -1,9 +1,31 @@
 body{
-  color: #60a3bc;
+  color: #8395a7;
+  text-align: center;
 }
 
 .clock{
-  text-align: center;
   font-size: 100px;
   margin-top: 200px;
+}
+
+.nameInput{
+  all:unset;
+
+  font-size: 20px;
+  font-weight: bold;
+
+  width: 400px;
+  height: 60px;
+
+  text-decoration: underline;
+
+
+}
+
+
+
+
+
+.HIDDEN_CN{
+  display: none;
 }
