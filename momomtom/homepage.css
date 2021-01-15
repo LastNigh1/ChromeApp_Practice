@@ -6,24 +6,22 @@ body{
 .clock{
   font-size: 100px;
   margin-top: 200px;
+  margin-bottom: 60px;
+}
+
+
+.nameForm{
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .nameInput{
+
   all:unset;
-
-  font-size: 20px;
-  font-weight: bold;
-
   width: 400px;
   height: 60px;
-
-  text-decoration: underline;
-
-
 }
-
-
-
 
 
 .HIDDEN_CN{
